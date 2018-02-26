@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Meteo Surf</string>
+    <string name="desc_logo_app">Logo of App</string>
+    <string name="bt_login_text">Entrar</string>
+    <string name="bt_register_text">Registrar</string>
+    <string name="et_hint_mail">Correo electrónico</string>
+    <string name="et_hint_pass">Contraseña</string>
+    <string name="et_hint_name">Nombre</string>
+    <string name="et_hint_pass_confirm">Confirmar contraseña</string>
+    <string name="tv_spot_title">Selecciona tu Spot</string>
+    <string name="bt_spot_text">Aplicar</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_menu_current">Estado actual</string>
+    <string name="title_menu_forecast">Predicción</string>
+    <string name="title_menu_settings">Configuración</string>
+    <string name="title_menu_comment">Comentarios</string>
+    <string name="title_menu_exit">Salir</string>
+    <string name="desc_iv_star">Image View Star</string>
+    <string name="desc_iv_waves_1">Image waves primary</string>
+    <string name="desc_iv_compass">Compass direction</string>
+    <string name="desc_iv_waves_2">Image waves secondary</string>
+    <string name="desc_iv_waves_3">Image waves terciary</string>
+    <string name="desc_iv_wind">Image wind</string>
+    <string name="desc_iv_weather">Weather icon</string>
+    <string name="desc_iv_thermometer">Imagen de un termómetro</string>
+    <string name="et_comment_hint">max 120 caracteres</string>
+</resources>
